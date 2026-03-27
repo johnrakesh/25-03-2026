@@ -5,17 +5,19 @@ import './index.css'
 // import { Toggle } from './components/usestateToggle'
 // import { Practice } from './components/usestatepractice1'
 
-// import { InputFieldState } from './components/usestateInput'
-// import { InputFieldState1 } from './components/usestateInput1'
-// import { CharacterCount } from './components/usestateCharactercount'
-// import { TodoList } from './components/useStateTodolist'
-// import { TodoListObj } from './components/TodowithObject'
-// import { CondtionalRendering } from './components/condtionalrender'
-// import { Conditional1 } from './components/conditional1'
-import { Conditional2 } from './components/conditional2'
+// import {Task1} from './tasks/task1'
+// import { Task2 } from './tasks/task2'
+// import { Task5 } from './tasks/task5'
+// import { Task6 } from './tasks/task6'
+// import { Task7 } from './tasks/task7'
+// import { Inline } from './tasks/styles-inline'
+// import { Object } from './tasks/styles-object'
+import { Button } from './tasks/styles-module'
 
 createRoot(document.getElementById('root')).render(
-  <StrictMode>
-   <Conditional2 />
-  </StrictMode>
+  
+   <Button />
+
+
+  
 )
