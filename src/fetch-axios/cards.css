@@ -1,0 +1,32 @@
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card{
+    width: 220px;
+    height: 300px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    
+    text-align: center;
+    box-shadow: 0px 2px 10px rgba(0,0,0,0.1);
+}
+
+.card img{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+.card p{
+    margin:10px;
+    font-size: 10px;
+    height: 60px;
+    overflow: hidden;
+}
+
+.card h5{
+    margin:1px;
+}

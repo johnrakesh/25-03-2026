@@ -28,11 +28,11 @@ body{
     height: 100vh;
     overflow: hidden;
 }
-h2{
+/* h2{
     text-align: center;
     background-color: black;
     color:white;
-}
+} */
 
 button{
     width:120px;

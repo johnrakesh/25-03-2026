@@ -10,7 +10,7 @@ label{
   font-weight: bold;
 }
 
-button{
+/* button{
   margin-top: 10px;
   border-radius: 10px;
   border: none;
@@ -19,7 +19,7 @@ button{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-weight: bold;
   box-shadow: 0.3px 1px 4px 0.5px grey;
-}
+} */
 
 input{
   height: 20px;
